@@ -14,7 +14,7 @@ const WaresContent = [
         link: "https://mega.nz/file/ELsTgJqA#BCHy-nagRywfSpl9Ue7R-YyvNDfPrI0FaMkz-i6ljtY"
     },
     {
-        title: "AutoCAD 2024",
+        title: "Autodesk.AutoCAD.2024.1.3.ru-en",
         link: "https://mega.nz/file/gH9FUABT#4Yv9DzseXfE4tj_Ep1pgDCp_PYHHWY-RkicZqYqPqFc"
     },    
     {

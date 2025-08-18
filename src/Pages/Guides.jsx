@@ -21,7 +21,9 @@ const Guides = () => {
             </label>
             <div className="flex items-center justify-center">
                 <div className="grid grid-cols-2 gap-4 lg:gap-7 lg:grid-cols-3">
-                    {
+                    
+                    {   /* Iterating every item on GuidesContent component */
+
                         GuidesContent
                             .filter((guide) => {
                                 return search === '' ? guide : guide.title.toLowerCase().includes(search)
