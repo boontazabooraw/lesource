@@ -18,6 +18,10 @@ const WaresContent = [
         link: "https://mega.nz/file/ELsTgJqA#BCHy-nagRywfSpl9Ue7R-YyvNDfPrI0FaMkz-i6ljtY"
     },
     {
+        title: "Autodesk.3ds.Max.2024.2.1.Multilingual",
+        link: "https://mega.nz/file/KfBzGZgK#ddT3_uCe6aab1SsE5RvzT8kLkoYwFM9PDZmu2cUwWbA"
+    },
+    {
         title: "Autodesk.AutoCAD.2024.1.3.ru-en",
         link: "https://mega.nz/file/gH9FUABT#4Yv9DzseXfE4tj_Ep1pgDCp_PYHHWY-RkicZqYqPqFc"
     },
