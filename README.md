@@ -7,3 +7,6 @@ This is for personal use only (but you can access it if ever.)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Made using Vite React, TailwindCSS and DaisyUI
+
+Todo:
+    - Add categories for Wares (and/or Guides) for easier filtering and navigation.

@@ -5,8 +5,6 @@ import About from "../Pages/About.jsx"
 
 const Tab = () => {
 
-
-
     return (
         <>
             <div className="items-center justify-center tabs tabs-lift">
