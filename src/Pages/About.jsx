@@ -5,7 +5,7 @@ const About = () => {
         <div className="flex flex-col items-center">
             <span>All lefts and rights reserved 2025 🤓</span>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="35px">
-                <a href="https://github.com/boontazabooraw">
+                <a href="https://github.com/boontazabooraw" target="_blank">
                     <title>Github profile</title>
                     <path
                         fill="#FFD6A7"
