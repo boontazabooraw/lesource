@@ -14,6 +14,10 @@ const WaresContent = [
         link: "https://mega.nz/file/pGlQBKQD#s-DHglX-8ie2-xvbl2WjGGuekr14Vh-vTV7yiQEhHEk"
     },
     {
+        title: "Adobe Acrobat Pro 2023.001.20064",
+        link: "https://mega.nz/file/5KMAXYCY#87LbM-0qPWAl9UFSY6QN_HMk4sUA1SaOBjrNQ3rJEqI"
+    },    
+    {
         title: "Adobe Photoshop 2023 v24.2.0.315",
         link: "https://mega.nz/file/ELsTgJqA#BCHy-nagRywfSpl9Ue7R-YyvNDfPrI0FaMkz-i6ljtY"
     },
