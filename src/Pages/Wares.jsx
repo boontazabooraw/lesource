@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import { useState } from "react"
 import WareCard from "../components/WareCard.jsx"
 import WaresContent from "../components/content/WaresContent.jsx"
 
