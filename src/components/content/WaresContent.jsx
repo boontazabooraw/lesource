@@ -2,6 +2,14 @@
 
 const WaresContent = [
     {
+        title: "Neural DSP Fortin Nameless Suite v3.0.1",
+        link: "https://mega.nz/file/MXcxiZZB#SwaVA84LjdqEHqlqTv7eso_G81nxpCL3sD57NBkpjNY"
+    },
+    {
+        title: "Neural.DSP.Archetype.Plini.v2.0.1",
+        link: "https://mega.nz/file/sCMWXSIZ#tndIoT-4Yp1qZ0Vx5q0zD-DhbUwra6RPoEgFgWSzfnA"
+    },
+    {
         title: "[EN-GB] Windows 10 - Consumer Edition v22h2 x64",
         link: "https://drive.google.com/file/d/1Z9wMsel8Xhetda5PW-sAVIKwfipfSuVk/view?usp=drive_link"
     },
@@ -16,7 +24,7 @@ const WaresContent = [
     {
         title: "Adobe Acrobat Pro 2024.002.20895",
         link: "https://mega.nz/file/8bF2gbrI#q5czd8VWjPPN6zv8juKTBHanF09BvqiWmoHQP15qQR8"
-    },    
+    },
     {
         title: "Adobe Photoshop 2023 v24.2.0.315",
         link: "https://mega.nz/file/ELsTgJqA#BCHy-nagRywfSpl9Ue7R-YyvNDfPrI0FaMkz-i6ljtY"
@@ -45,14 +53,8 @@ const WaresContent = [
         title: "Neural DSP Archetype Gojira 1.0.0 (x64)",
         link: "https://mega.nz/file/xK0WVLiD#anH1wm_Y8DeHJuR7DlkvGktnmh09aFOnSuFoOSulgak"
     },
-    {
-        title: "Neural DSP Fortin Nameless Suite v3.0.1",
-        link: "https://mega.nz/file/MXcxiZZB#SwaVA84LjdqEHqlqTv7eso_G81nxpCL3sD57NBkpjNY"
-    },
-    {
-        title: "Neural.DSP.Archetype.Plini.v2.0.1",
-        link: "https://mega.nz/file/sCMWXSIZ#tndIoT-4Yp1qZ0Vx5q0zD-DhbUwra6RPoEgFgWSzfnA"
-    },
+
+
 
 
 

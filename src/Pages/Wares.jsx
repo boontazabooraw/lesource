@@ -8,10 +8,10 @@ const Wares = () => {
     const [search, setSearch] = useState('')
 
     const searchOnChange = (event) => {
-        setSearch(event.target.value.toLowerCase())
+        setSearch(event.target.value.toUpperCase())
     }
 
-    WaresContent.sort((a, b) => a.title.localeCompare(b.title))
+    const sortedWares = WaresContent.sort((a, b) => a.title.localeCompare(b.title))
 
     return (
         <>
@@ -25,9 +25,9 @@ const Wares = () => {
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 md:gap-3 gap-10">
 
-                {WaresContent
+                {sortedWares
                     .filter((ware) => {
-                        return search === '' ? ware : ware.title.toLowerCase().includes(search)
+                        return search === '' ? ware : ware.title.toUpperCase().includes(search)
                     })
                     .map((ware) => (
                         <WareCard
