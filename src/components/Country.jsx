@@ -1,19 +1,21 @@
-import React, { useEffect, useState } from "react"
+"use client";
+
+import { useEffect, useState } from "react"
 import axios from "axios"
 import ReactCountryFlag from "react-country-flag"
 
 const Country = () => {
 
-    const [state, setState] = useState({ countryName: "" })
+    const [country, setCountry] = useState({ countryCode: "" })
 
     const getCountry = () => {
         axios
             .get("https://ipapi.co/json")
             .then((res) => {
                 let data = res.data;
-                setState({
-                    ...state,
-                    countryName: data.country_name
+                setCountry({
+                    ...country,
+                    countryCode: data.country_code
                 })
             })
             .catch((e) => {
@@ -27,10 +29,10 @@ const Country = () => {
 
     return (
         <div class="mx-2">
-            {state.countryName.toUpperCase() === "PHILIPPINES" ?
-                <ReactCountryFlag
-                    countryCode="PH" svg />
-                : ""}
+            {/* {state.countryName.toUpperCase() === "PHILIPPINES" ? */}
+            <ReactCountryFlag
+                countryCode={country.countryCode.toUpperCase()} svg />
+            {/* : ""} */}
         </div>
     )
 }
