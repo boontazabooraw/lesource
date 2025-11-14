@@ -53,6 +53,14 @@ const WaresContent = [
         title: "Neural DSP Archetype Gojira 1.0.0 (x64)",
         link: "https://mega.nz/file/xK0WVLiD#anH1wm_Y8DeHJuR7DlkvGktnmh09aFOnSuFoOSulgak"
     },
+    {
+        title: "[Multi] Windows 10 - Multi-Edition v20H1 x64",
+        link: "https://mega.nz/file/7HA20bDD#5eOGrWuEM1ucH4_-z_zknP2mG9h5KqxD61t25keq6PQ"
+    }, 
+    {
+        title: "[Multi] Windows Server 2019 - Multi-Edition v1809 x64",
+        link: "https://mega.nz/file/7HA20bDD#5eOGrWuEM1ucH4_-z_zknP2mG9h5KqxD61t25keq6PQ"
+    },
 
 
 
