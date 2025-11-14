@@ -56,16 +56,15 @@ const WaresContent = [
     {
         title: "[Multi] Windows 10 - Multi-Edition v20H1 x64",
         link: "https://mega.nz/file/7HA20bDD#5eOGrWuEM1ucH4_-z_zknP2mG9h5KqxD61t25keq6PQ"
-    }, 
+    },
     {
         title: "[Multi] Windows Server 2019 - Multi-Edition v1809 x64",
         link: "https://mega.nz/file/7HA20bDD#5eOGrWuEM1ucH4_-z_zknP2mG9h5KqxD61t25keq6PQ"
+    },    
+    {
+        title: "Adobe Acrobat 24.004.20220 [Offline Installer]",
+        link: "https://mega.nz/file/qaQFjLib#zESOn-oqzexACLNcfHLLIR931GGxLiZuEcQxb0WC9dE"
     },
-
-
-
-
-
 ]
 
 export default WaresContent
