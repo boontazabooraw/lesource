@@ -64,6 +64,10 @@ const WaresContent = [
     {
         title: "Adobe Acrobat 24.004.20220 [Offline Installer]",
         link: "https://mega.nz/file/qaQFjLib#zESOn-oqzexACLNcfHLLIR931GGxLiZuEcQxb0WC9dE"
+    },    
+    {
+        title: "Adobe Illustrator 2022 v26.0.1.731 x64 [Pre-activated]",
+        link: "https://mega.nz/file/3KJTwQAa#q48l0_2JLlujffAdatFKgAb_pm7qo1MKsPkEVMMfWNY"
     },
 ]
 
